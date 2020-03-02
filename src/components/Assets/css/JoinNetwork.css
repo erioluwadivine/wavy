@@ -1,0 +1,23 @@
+.Join {
+  display: block;
+  margin: auto;
+  width: 90%;
+}
+.Join-text-big {
+  font-size: 32px;
+  font-weight: 900;
+  font-family: Manjari;
+}
+.Join-items {
+  font-size: 23px;
+  font-family: Gotham;
+}
+.text-nowrap {
+  white-space: nowrap;
+}
+
+@media only screen and (max-width: 600px) {
+  .JoinNetwork {
+    display: none;
+  }
+}

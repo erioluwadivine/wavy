@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="27.795" height="25" viewBox="0 0 27.795 25">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: none;
+        stroke: #e8a622;
+        stroke-width: 2px;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <g id="_1b1c9b208ed950244c86edd4d20135e8" data-name="1b1c9b208ed950244c86edd4d20135e8" transform="translate(1 1)">
+    <path id="Path_206" data-name="Path 206" class="cls-1" d="M26.3,35.714c0,5.779-5.923,9.277-12.093,15.056a1.511,1.511,0,0,1-.82.421,1.411,1.411,0,0,1-.8-.429C6.428,44.993.5,41.483.5,35.714c0-4.328,3.224-7.524,6.449-7.524,5.374,0,6.449,3.224,6.449,3.224s1.075-3.224,6.448-3.224C23.071,28.19,26.3,31.428,26.3,35.714Z" transform="translate(-0.5 -28.19)"/>
+  </g>
+</svg>

@@ -1,0 +1,25 @@
+.Navbar {
+  box-shadow: 0 8px 6px 0 rgba(0, 0, 0, 0.16);
+  background-color: #ffffff;
+  padding: 0.5rem 1rem;
+  }
+.wavy {
+  font-family: manjari;
+  color: #e8a622;
+  font-size: 27px;
+}
+.btn-sign-in {
+  border-radius: 5px;
+  box-shadow: 0 3px 6px 0 rgba(0, 0, 0, 0.16);
+  color: #ffffff;
+  background-color: #e8a622;
+  height: 30px;
+}
+.form-control:focus,
+input[type="text"]:focus,
+input[type="password"]:focus {
+  border-color: #e8a622;
+  box-shadow: #e8a622 !important;
+}
+
+

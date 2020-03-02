@@ -1,0 +1,8 @@
+.the-form {
+  margin: auto;
+  width: 90%;
+  font-family: Manjari;
+}
+.form-control:focus {
+  border-color: #e8a622;
+}
